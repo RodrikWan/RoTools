@@ -24,6 +24,7 @@ def Credits():
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Main Menu                                       {Fore.CYAN}║")
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Credits                                         {Fore.CYAN}║")
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Menu                                    {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Menu Page 2                             {Fore.CYAN}║")
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Nitro Generator                         {Fore.CYAN}║")
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Token Generator                         {Fore.CYAN}║")
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Token Info                              {Fore.CYAN}║")
@@ -32,8 +33,14 @@ def Credits():
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Webhook Deleter                         {Fore.CYAN}║")
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Half token from user ID                 {Fore.CYAN}║")
     print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord change Hypesquad House                  {Fore.CYAN}║")
-    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Disable Token                           {Fore.CYAN}║")
-    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Menu 2 (new page)                       {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Token Disabler                          {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Discord Token Unverifier                        {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Windows Menu                                    {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Windows Power Menu                              {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Windows Log Out                                 {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Windows Hibernate                               {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Windows Shutdown                                {Fore.CYAN}║")
+    print(F"{Fore.CYAN}║{Fore.WHITE} - Added Windows Restart                                 {Fore.CYAN}║")
     print(F"{Fore.CYAN}╚═════════════════════════════════════════════════════════╝")#-------------------|
     
     input(f"\n{Fore.CYAN}[INFO] {Fore.WHITE}Press [Enter] to return to Main Menu")
@@ -113,6 +120,7 @@ def DiscordMenu2():
     print(f"{Fore.CYAN}║{Fore.WHITE} 1 | Discord Token Disabler                              {Fore.CYAN}║")
     print(f"{Fore.CYAN}║{Fore.WHITE} 2 | Discord Token Unverifier                            {Fore.CYAN}║")
     print(f"{Fore.CYAN}║{Fore.WHITE} 8 | Previous page                                       {Fore.CYAN}║")
+    print(f"{Fore.CYAN}║{Fore.WHITE} 9 | Next page (Not working)                             {Fore.CYAN}║")
     print(f"{Fore.CYAN}║{Fore.WHITE} 0 | Main Menu                                           {Fore.CYAN}║")
     print(f"{Fore.CYAN}╚═════════════════════════════════════════════════════════╝")#-------------------|
     
